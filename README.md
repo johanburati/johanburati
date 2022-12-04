@@ -1,14 +1,10 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+### Hi there ![](https://visitor-badge.glitch.me/badge?page_id=johanburati.johanburati) ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - &nbsp;Connect with me on Linkedin ! <a href="https://www.linkedin.com/in/burati/">
   <img align="left" alt="Johan Burati's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=johanburati.johanburati)
-
 <br />
-
 
 <!--
 **johanburati/johanburati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
