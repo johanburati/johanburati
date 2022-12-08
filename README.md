@@ -2,6 +2,7 @@
 
 - &nbsp;Connect with me on Linkedin ! <a href="https://www.linkedin.com/in/burati/">
   <img align="left" alt="Johan Burati's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ - Please feel free to [buymeacoffee](https://www.buymeacoffee.com/johanburati) ! ☕☕☕ 
 </a>
 
 <br />
